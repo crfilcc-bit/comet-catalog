@@ -1,0 +1,12 @@
+{
+  "instances": [
+    {
+      "code": "CLOUSAFIOBETATEST",
+      "name": "BETA TESTERS",
+      "version": null,
+      "background": "https://i.pinimg.com/1200x/74/01/fc/7401fcfcad8ffc2f1510f61ba4e98f48.jpg",
+      "icon": "https://tinyurl.com/yc5y9sna",
+      "mrpack": "https://github.com/crfilcc-bit/comet-catalog/releases/download/v1/Beta.test.mrpack"
+    }
+  ]
+}
