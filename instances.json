@@ -1,13 +1,13 @@
 {
   "instances": [
     {
-      "code": "CLOUSAFIOBETATEST",
-      "name": "CLOUDSAFIO",
+      "code": "CLOUSAFIOCREADORES",
+      "name": "CLOUDSAFIO BETA TEST",
       "version": null,
       "background": "https://i.pinimg.com/1200x/74/01/fc/7401fcfcad8ffc2f1510f61ba4e98f48.jpg",
       "icon": "https://tinyurl.com/yc5y9sna",
       "effect": "embers",
-      "mrpack": "https://github.com/crfilcc-bit/comet-catalog/releases/download/p-0f847cbc50/clousafiobetatest-0f847cbc50.mrpack"
+      "mrpack": "https://github.com/crfilcc-bit/comet-catalog/releases/download/p-5832106ec4/clousafiocreadores-5832106ec4.mrpack"
     }
   ]
 }
